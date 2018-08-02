@@ -4,3 +4,4 @@ Nu skal du hoere her..
 en endringf
 nok en endring
 og nok en endring
+lokalendring mens det fantes en remoteendring
